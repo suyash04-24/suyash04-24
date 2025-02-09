@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Suyash Lagad</h1>
 <p>A passionate full Stack developer from Pune</p>
+<h2>👨‍💻 About Me</h2>
+<p>I am a Full Stack Developer with a passion for creating dynamic, scalable, and efficient web applications. I love solving complex problems and continuously improving my skills in modern web technologies. With experience in MERN stack, Java, and Cloud Computing, I thrive in building interactive and high-performing applications.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
